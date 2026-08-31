@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\DataTracking-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\repository.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:repository.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\filtereddata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:filtereddata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\filtereddata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:filtereddata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|c:\\github\\datatracking-2\\filehandler.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D14F310-EA1B-4887-9A71-87DC03B6D304}|DataTracking.csproj|solutionrelative:filehandler.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.aspx",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\Upload.aspx",
+              "RelativeDocumentMoniker": "Upload.aspx",
+              "ToolTip": "C:\\Github\\DataTracking-2\\Upload.aspx",
+              "RelativeToolTip": "Upload.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-27T05:28:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.aspx",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\Repository.aspx",
+              "RelativeDocumentMoniker": "Repository.aspx",
+              "ToolTip": "C:\\Github\\DataTracking-2\\Repository.aspx",
+              "RelativeToolTip": "Repository.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-27T05:28:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Master.aspx",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\Master.aspx",
+              "RelativeDocumentMoniker": "Master.aspx",
+              "ToolTip": "C:\\Github\\DataTracking-2\\Master.aspx",
+              "RelativeToolTip": "Master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-27T05:28:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilteredData.aspx",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\FilteredData.aspx",
+              "RelativeDocumentMoniker": "FilteredData.aspx",
+              "ToolTip": "C:\\Github\\DataTracking-2\\FilteredData.aspx",
+              "RelativeToolTip": "FilteredData.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-27T05:06:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilteredData.aspx.cs",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\FilteredData.aspx.cs",
+              "RelativeDocumentMoniker": "FilteredData.aspx.cs",
+              "ToolTip": "C:\\Github\\DataTracking-2\\FilteredData.aspx.cs",
+              "RelativeToolTip": "FilteredData.aspx.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwG4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T05:20:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileHandler.ashx.cs",
+              "DocumentMoniker": "C:\\Github\\DataTracking-2\\FileHandler.ashx.cs",
+              "RelativeDocumentMoniker": "FileHandler.ashx.cs",
+              "ToolTip": "C:\\Github\\DataTracking-2\\FileHandler.ashx.cs",
+              "RelativeToolTip": "FileHandler.ashx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T05:07:23.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

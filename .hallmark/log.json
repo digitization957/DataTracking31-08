@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-08-20",
+    "macrostructure": "bespoke (auth card / instrument panel / two-pane workbench / filter-rail browser)",
+    "theme": "Cobalt",
+    "theme_axes": "light / grotesk-sans / cool",
+    "enrichment": "none",
+    "scope": "app",
+    "brief": "DataTracking — redesign whole UI/UX (Login, Dashboard, Upload, Repository)"
+  }
+]
